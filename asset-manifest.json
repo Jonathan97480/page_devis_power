@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/page-devisPower/static/css/main.c6fc629b.css",
-    "main.js": "/page-devisPower/static/js/main.fe5a6308.js",
+    "main.js": "/page-devisPower/static/js/main.14b44a2b.js",
     "static/js/787.edeb7dd8.chunk.js": "/page-devisPower/static/js/787.edeb7dd8.chunk.js",
     "static/media/Baloo2-SemiBold.ttf": "/page-devisPower/static/media/Baloo2-SemiBold.6dd552cef34a00676a3e.ttf",
     "static/media/Baloo2-Bold.ttf": "/page-devisPower/static/media/Baloo2-Bold.b755b37ccd2c5b24989c.ttf",
@@ -22,11 +22,11 @@
     "static/media/Logo.svg": "/page-devisPower/static/media/Logo.4a78bb6c9550de5c3912146d25597cc7.svg",
     "index.html": "/page-devisPower/index.html",
     "main.c6fc629b.css.map": "/page-devisPower/static/css/main.c6fc629b.css.map",
-    "main.fe5a6308.js.map": "/page-devisPower/static/js/main.fe5a6308.js.map",
+    "main.14b44a2b.js.map": "/page-devisPower/static/js/main.14b44a2b.js.map",
     "787.edeb7dd8.chunk.js.map": "/page-devisPower/static/js/787.edeb7dd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6fc629b.css",
-    "static/js/main.fe5a6308.js"
+    "static/js/main.14b44a2b.js"
   ]
 }
