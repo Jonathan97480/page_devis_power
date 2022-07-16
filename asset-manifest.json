@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d739790.css",
-    "main.js": "/static/js/main.4dc8bbeb.js",
+    "main.css": "/static/css/main.6c6c74df.css",
+    "main.js": "/static/js/main.07c17db6.js",
     "static/js/787.edeb7dd8.chunk.js": "/static/js/787.edeb7dd8.chunk.js",
     "static/media/devis.svg": "/static/media/devis.250459e8a0052dfbfec11a7bbb5fe69d.svg",
     "static/media/facture.svg": "/static/media/facture.9ebfbd0c4f45ba2ca81bf9431c43ac12.svg",
@@ -17,18 +17,18 @@
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
     "static/media/Table-m.svg": "/static/media/Table-m.6dd2fb8b95d9cd971cad6f453cd926f5.svg",
-    "static/media/mockup_hero.png": "/static/media/mockup_hero.3bce766c3e772d624292.png",
+    "static/media/mockup_hero.webp": "/static/media/mockup_hero.b3e0f76ed9a0b6c5506c.webp",
     "static/media/team_ty.jpg": "/static/media/team_ty.62b8101a4fafd9078211.jpg",
     "static/media/team_jo.jpg": "/static/media/team_jo.2c233a45c4608967b298.jpg",
     "static/media/Logo.svg": "/static/media/Logo.4a78bb6c9550de5c3912146d25597cc7.svg",
     "index.html": "/index.html",
     "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "main.4d739790.css.map": "/static/css/main.4d739790.css.map",
-    "main.4dc8bbeb.js.map": "/static/js/main.4dc8bbeb.js.map",
+    "main.6c6c74df.css.map": "/static/css/main.6c6c74df.css.map",
+    "main.07c17db6.js.map": "/static/js/main.07c17db6.js.map",
     "787.edeb7dd8.chunk.js.map": "/static/js/787.edeb7dd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d739790.css",
-    "static/js/main.4dc8bbeb.js"
+    "static/css/main.6c6c74df.css",
+    "static/js/main.07c17db6.js"
   ]
 }
